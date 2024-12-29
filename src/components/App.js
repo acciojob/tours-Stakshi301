@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Loading from './loading';
 import Tours from './tours';
-import TourAPI from './TourAPI';
+import TourAPI from './tourAPI';
 import './tour.css';
 
 const App = () => {
